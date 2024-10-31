@@ -3,8 +3,8 @@ Vrinda Store Sales Analysis Project (2022)
 ### Objective:
  - Vrinda store aims to create an annual sales report for 2022 to better understand customer demographics and behaviors, enabling the store to enhance sales in 2023. 
 
-### Sample Questions Addressed * 
-**Sales and Orders Comparison:
+### Sample Questions Addressed 
+* **Sales and Orders Comparison:
 ** Visualized to observe overall performance trends. * 
 **Monthly Sales and Orders:** Identified the peak month for both sales and orders. * 
 **Customer Demographics:** Compared purchase frequency by gender and analyzed age group tendencies. * 
