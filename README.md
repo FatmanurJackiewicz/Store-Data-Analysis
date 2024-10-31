@@ -1,7 +1,7 @@
 Vrinda Store Sales Analysis Project (2022) 
 ========================================== 
 ### Objective:
- - Vrinda store aims to create an annual sales report for 2022 to better understand customer demographics and behaviors, enabling the store to enhance sales in 2023. 
+ - Vrinda store aims to create an annual sales report for 2022 to better understand customer demographics and behaviours, enabling the store to enhance sales in 2023. 
 
 ### Sample Questions Addressed 
 * **Sales and Orders Comparison:** Visualized to observe overall performance trends.
@@ -33,11 +33,13 @@ Vrinda Store Sales Analysis Project (2022)
  ### Files in Repository 
  * **Data Cleaning Scripts:** Methods and code for data cleaning.
  * **Dashboard File:** Interactive Excel dashboard with visualizations and insights.
- * **Insights Report:** Detailed findings and recommendations document. * * *
+ * **Insights Report:** Detailed findings and recommendations document. 
  
- ### Dashboard Preview (_Add a screenshot or GIF of your dashboard here_) * * * 
+ ### Dashboard Preview:
+![image](https://github.com/user-attachments/assets/81790472-644a-4a11-96f6-896792c7657c)
+
  
- ### Technologies Used * 
+ ### Technologies Used 
  **Excel**: 
  Data analysis, 
  dashboard creation, 
